@@ -1,0 +1,14 @@
+Package: cwdata
+Title: ETC5523- Week 7
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Thanh",
+           family = "Nguyen",
+           role = c("aut", "cre"),
+           email = "dngu0079@student.monash.edu")
+Description: Contain data and examples
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
