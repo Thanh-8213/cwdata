@@ -20,5 +20,7 @@ install.packages("cwdata")
 
 And the development version from [GitHub](https://github.com/) with:
 
-\`\`\` r \# install.packages(“devtools”)
-devtools::install\_github(“Thanh-8213/cwdata”)
+``` r
+# install.packages("devtools")
+devtools::install_github("Thanh-8213/cwdata")
+```
